@@ -1,5 +1,16 @@
 # BMICalculatorAppAngular
 
+## Description
+IBM Calculator application developed in Angular.
+
+### Homepage
+![](./src/assets/img/Screenshot1.png)
+
+
+### Result package
+![](./src/assets/img/Screenshot2.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
