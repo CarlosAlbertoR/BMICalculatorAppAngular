@@ -1,4 +1,4 @@
-# BMICalculatorAppAngular
+# BMI Calculator App Angular
 
 ## Description
 IBM Calculator application developed in Angular.
